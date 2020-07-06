@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>input.txt</file>
-        <file>sources/battle_complete_panel.png</file>
-    </qresource>
-</RCC>
