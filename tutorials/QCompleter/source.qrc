@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/battle_complete_panel.png</file>
+    </qresource>
+</RCC>
